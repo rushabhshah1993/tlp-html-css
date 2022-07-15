@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+}
+
+.inside-box {
+    padding: 0 20px;
+    width: 300px;
+    border: 1px solid black;
+    /* box-sizing: border-box; */
+}
+
+.container {
+    width: 200px;
+    height: 200px;
+    color: white;
+    background: rgb(108, 116, 231);
+    border: 10px solid rgb(238, 157, 157);
+    /* margin: 10px; */
+    padding: 10px;
+
+    outline-style: dotted;
+    outline-width: 20px;
+    outline-color: green;
+}

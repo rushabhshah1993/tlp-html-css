@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+}
+
+/* .margin-element {
+    border: 1px solid red;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color: white; */
+
+    /* margin-top: 70px;
+    margin-right: 70px;
+    margin-bottom: 70px;
+    margin-left: 70px; */
+    /* margin: 70px; */
+    /* margin: 10px 40px 30px 20px; */
+    /* margin: 10px 40px 30px; */
+    /* margin: 10px 40px; */
+    /* margin: 10px; */
+/* } */
+
+/* .container {
+    display: flex;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    color: white;
+    /* margin-top: 100px; */
+/* } */
+
+/* .box1 { */
+    /* background-color: red; */
+    /* margin-right: 40px; */
+    /* margin-bottom: 50px; */
+/* } */
+
+/* .box2 { */
+    /* background-color: blue; */
+    /* margin-left: 50px; */
+    /* margin-top: 50px; */
+/* } * */
+
+/* .centered {
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    background: green;
+    color: white;
+    margin: 0 auto;
+} */

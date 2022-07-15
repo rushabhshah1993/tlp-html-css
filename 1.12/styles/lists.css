@@ -1,0 +1,19 @@
+ul {
+    /* list-style-type: none; */
+    /* list-style-type: square; */
+    /* list-style-type: circle; */
+    /* list-style-image: url('https://www.wsupercars.com/thumbnails/Lamborghini/2019-Lamborghini-SC18-001.jpg'); */
+}
+
+ol {
+    /* list-style-type: decimal; */
+    /* list-style-type: upper-alpha; */
+    /* list-style-type: lower-alpha; */
+    /* list-style-type: upper-roman; */
+    /* list-style-type: lower-roman; */
+    /* list-style-position: inside; */
+}
+
+/* ol li {
+    border: 1px solid black;
+} */

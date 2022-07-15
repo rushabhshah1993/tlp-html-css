@@ -1,0 +1,44 @@
+h4 {
+    color: orange;
+}
+
+img {
+    width: 50%;
+}
+
+#text,
+#text2 {
+    font-size: 40px;
+}
+
+#text {
+    color:red;
+}
+
+#text2 {
+    color: rgba(255, 0, 0, 0.9);
+}
+
+
+.fun-box {
+    height: 200vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url('https://w7.pngwing.com/pngs/740/414/png-transparent-orange-fruit-juice-tangerine-mandarin-orange-grapefruit-clementine-tangerine-natural-foods-food-orange-thumbnail.png');
+}
+
+/* .ptext {
+    color: green;
+} */
+
+/* #text {
+    color: blue;
+} */
+
+/* p {
+    color: brown;
+} */
+
+/* * {
+    color:deeppink;
+} */
