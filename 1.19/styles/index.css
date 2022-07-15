@@ -1,0 +1,51 @@
+body, div, h1,h2, h3, h4, h5, h6, p,ul {
+    margin: 0;
+    padding: 0;
+}
+
+.box1 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: red;
+    margin-top: 20px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+
+.box2 {
+    border: 1px solid red;
+    margin: 20px 40px 20px 40px;
+}
+
+.completely-centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.centered-element {
+    border: 1px solid black;
+    height: 300px;
+    width: 400px;
+    margin: 0 auto;
+}
+
+.uppercase {
+    text-align: center;
+    margin: 2rem 0;
+    text-transform: uppercase;
+}
+
+.box1 {
+    border-color: green;
+}
+
+.text-ellipsis {
+    margin: 0 auto;
+    border: 1px solid #EAEAEA;
+    width: 200px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
